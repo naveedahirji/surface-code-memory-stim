@@ -1,0 +1,6 @@
+stim
+pymatching
+numpy
+matplotlib
+pandas
+scipy
